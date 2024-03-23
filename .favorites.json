@@ -1,0 +1,19 @@
+[
+    {
+        "type": "Group",
+        "name": "eq-test-cases",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "jrGWM5Ay8fKZNs4O"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\sromanowski\\source\\repos\\eq-test-cases\\docs\\katalon_notes.md",
+        "parent_id": "jrGWM5Ay8fKZNs4O",
+        "fsPath": "c:\\Users\\sromanowski\\source\\repos\\eq-test-cases\\docs\\katalon_notes.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "pfy5xVjv4ZLhENmJ"
+    }
+]

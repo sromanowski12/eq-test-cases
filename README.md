@@ -1,5 +1,16 @@
 # eq-test-cases
-Enterprise Quoting Selenium Test Cases
+Enterprise Quoting  Test Cases
+
+## Prerequisites
+- Selenium
+- Chrome/Edge WebDriver
+- Katalon Studio
+
+```js 
+/html/body/div[2]/div/div/div[1]/nav/ul/li[3]/ul/li[1]/a
+```
+
+## Selenium Installation
 
 1. Check your version of python
 ```py
